@@ -1,9 +1,30 @@
-# Build artefacts
-*.exe
+
+# VS
+.vs/
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+
+# CMake build dirs
+build*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+*.cmake
+*.slnx
+
+# MSVC outputs
+Debug/
+Release/
+x64/
 *.obj
+*.pdb
+*.ilk
+*.tlog
+*.log
+*.idb
+*.exp
 *.lib
 *.dll
-*.exp
-
-# Visual Studio
-.vs/
+*.exe
