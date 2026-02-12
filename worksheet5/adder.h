@@ -8,7 +8,7 @@
  */
 
 /**
- * @brief Adds two integers.
+ * * @brief Adds two integers automatically via GitHub Actions.
  *
  * @param a First integer
  * @param b Second integer
