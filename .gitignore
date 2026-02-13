@@ -28,3 +28,6 @@ x64/
 *.lib
 *.dll
 *.exe
+
+worksheet5/_CPack_Packages/
+worksheet5/Exercise_installer.zip
