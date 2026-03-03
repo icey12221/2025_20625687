@@ -31,3 +31,8 @@ x64/
 
 worksheet5/_CPack_Packages/
 worksheet5/Exercise_installer.zip
+# Ignore IDE/build outputs inside Worksheet6
+Worksheet6/.vs/
+Worksheet6/.qtcreator/
+Worksheet6/out/
+Worksheet6/build*/

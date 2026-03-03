@@ -1,0 +1,36 @@
+# Build outputs
+build/
+build*/
+out/
+out*/
+cmake-build*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.ninja
+*.ninja_deps
+*.ninja_log
+compile_commands.json
+Testing/
+CTestTestfile.cmake
+
+# Qt Creator / IDE
+*.user
+*.user.*
+*.autosave
+.qtc_clangd/
+.vscode/
+.idea/
+
+# OS junk
+Thumbs.db
+.DS_Store
+
+# windeployqt output (usually don't commit)
+*.dll
+platforms/
+styles/
+imageformats/
+iconengines/
+translations/
