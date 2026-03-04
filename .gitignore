@@ -36,3 +36,11 @@ Worksheet6/.vs/
 Worksheet6/.qtcreator/
 Worksheet6/out/
 Worksheet6/build*/
+
+
+build/
+CMakeCache.txt
+CMakeFiles/
+*.user
+*.sln
+*.vcxproj*
